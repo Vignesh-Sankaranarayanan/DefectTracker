@@ -1,0 +1,29 @@
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Defect.dll
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Defect.pdb
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Defect.dll
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Defect.pdb
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\autoexp.dll
+c:\documents and settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\autoexpce.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Microsoft.SqlServerCe.Client.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Microsoft.SqlServerCe.Enumerator.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Microsoft.SqlServerCe.ManagementUI.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\Microsoft.SqlServerCe.ReplWiz.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Interop.SSCE.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Defect.csproj.ResolveComReference.cache
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\System.Data.SqlServerCe.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\System.Data.SqlServerCe.Entity.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\FreeTextBox.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Defect.dll.licenses
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Interop.XDocsDesigner.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Interop.RichTextLib.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Interop.ADODB.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\obj\Debug\Interop.ADOMD.dll
+C:\Documents and Settings\z123993\my documents\visual studio 2010\Projects\Defect\Defect\bin\AjaxControlToolkit.dll
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Defect.csprojResolveAssemblyReference.cache
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Interop.ADODB.dll
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Interop.ADOMD.dll
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Defect.csproj.ResolveComReference.cache
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Defect.dll.licenses
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Defect.dll
+C:\Users\sanvig02\Downloads\Defect\Defect\Defect\obj\Debug\Defect.pdb

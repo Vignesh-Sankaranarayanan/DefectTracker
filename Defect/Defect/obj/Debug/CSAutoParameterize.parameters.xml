@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultvalue="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" description="ConnectionString Connection String used in web.config by the application to access the database." defaultvalue="Data Source=C:\Documents and Settings\z123993\My Documents\TestDB.sdf;Password=infy@123" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString2-Web.config Connection String" description="ConnectionString2 Connection String used in web.config by the application to access the database." defaultvalue="Data Source=C:\Documents and Settings\z123993\My Documents\TestDB.sdf;Password=infy@123;Persist Security Info=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="Connstr-Web.config Connection String" description="Connstr Connection String used in web.config by the application to access the database." defaultvalue="Data Source='204.99.34.21';user id='COEBATCH';password='coe1234';" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Connstr']/@connectionString" />
+  </parameter>
+  <parameter name="teradata-Web.config Connection String" description="teradata Connection String used in web.config by the application to access the database." defaultvalue="DSN=EDW2-QA;UID=coebatch; " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='teradata']/@connectionString" />
+  </parameter>
+</parameters>

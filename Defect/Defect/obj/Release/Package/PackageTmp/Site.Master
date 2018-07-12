@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Defect.SiteMaster" MasterPageFile="" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 109px;
+        }
+        .style2
+        {
+            width: 287px;
+            height: 28px;
+        }
+        .style3
+        {
+            width: 375px;
+            height: 28px;
+        }
+        .style5
+        {
+            height: 28px;
+            width: 68px;
+        }
+        .style6
+        {
+            width: 207px;
+            height: 28px;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <div class="page">
+                <table class="style1" 
+                    style="background-color: #008080; color: #000000; border: medium groove #008080">
+                    <tr>
+                        <td class="style2" style="font-weight: 700; font-size: large;">
+                            DEFECT TRACKER</td>
+                        <td class="style5" align="right" dir="rtl">
+                           <asp:Label ID="lbWelcome" runat="server" Font-Size="Medium" Text="Welcome"></asp:Label>
+                            </td>
+                        <td align="left" class="style6">
+                         <asp:Label ID="LbUser" runat="server" Font-Size="Medium" Text="User"></asp:Label>
+                        <asp:HyperLink ID="HyperLogout" runat="server" Font-Size="Medium" ForeColor="White" NavigateUrl="~/Login1.aspx">Log Out</asp:HyperLink>
+</td> 
+                        <td align="left" class="style3">
+                            </td>
+                    </tr>
+                </table>
+                <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+
+                
+        </div>
+            <asp:ContentPlaceHolder ID="MainContent"    runat="server">
+                
+        
+                <p style="background-color: #808080; color: #000000">
+                   
+                </p>
+                
+        
+            </asp:ContentPlaceHolder>
+    
+    </form>
+</body>
+</html>
